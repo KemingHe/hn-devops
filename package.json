@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "hn-devops",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Daily curated list of top 3 pieces of DevOps news by Hacker News community vote.",
   "keywords": [
     "gcp",
